@@ -68,5 +68,5 @@ Options:
 You'll need to mount your working directory into the container so that OpenCC can manipulate the file(s) in, for example:
 
 ```sh
-docker run --rm -it -v `pwd`:/text -w /text peterdavehello/opencc opencc -c s2tw -i SimplifiedChinese.srt -o TraditionalChinese.srt
+docker run --rm -it -v ${PWD}:/text -w /text peterdavehello/opencc opencc -c s2tw -i SimplifiedChinese.srt -o TraditionalChinese.srt
 ```
