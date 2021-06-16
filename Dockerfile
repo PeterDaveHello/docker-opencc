@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.14
 
 LABEL maintainer="Peter Dave Hello <hsu@peterdavehello.org>"
 LABEL name="docker-opencc"
