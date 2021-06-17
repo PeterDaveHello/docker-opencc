@@ -1,0 +1,5 @@
+---
+
+ignored:
+  - DL3018 # Let's trust Alpine's package repository will handle the versions well
+  - DL3059 # Separate layers is better for cache leverage, especially for debug, and for not final stage image
