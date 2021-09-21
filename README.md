@@ -3,8 +3,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PeterDaveHello/docker-opencc)
 [![Build Status](https://travis-ci.com/PeterDaveHello/docker-opencc.svg?branch=master)](https://travis-ci.com/PeterDaveHello/docker-opencc)
 [![Docker Hub pulls](https://img.shields.io/docker/pulls/peterdavehello/opencc.svg)](https://hub.docker.com/r/peterdavehello/opencc/)
-[![Docker image layers](https://images.microbadger.com/badges/image/peterdavehello/opencc.svg)](https://microbadger.com/images/peterdavehello/opencc/)
-[![Docker image version](https://images.microbadger.com/badges/version/peterdavehello/opencc.svg)](https://hub.docker.com/r/peterdavehello/opencc/tags/)
 
 [![Docker Hub badge](http://dockeri.co/image/peterdavehello/opencc)](https://hub.docker.com/r/peterdavehello/opencc/)
 
