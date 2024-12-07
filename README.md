@@ -1,7 +1,7 @@
 # Dockerized OpenCC
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PeterDaveHello/docker-opencc)
-[![Build Status](https://app.travis-ci.com/PeterDaveHello/docker-opencc.svg?branch=master)](https://app.travis-ci.com/PeterDaveHello/docker-opencc)
+[![Build Status](https://github.com/PeterDaveHello/docker-opencc/actions/workflows/docker-build-test.yml/badge.svg?branch=master)](https://github.com/PeterDaveHello/docker-opencc/actions/workflows/docker-build-test.yml)
 [![Docker Hub pulls](https://img.shields.io/docker/pulls/peterdavehello/opencc.svg)](https://hub.docker.com/r/peterdavehello/opencc/)
 
 [![Docker Hub badge](http://dockeri.co/image/peterdavehello/opencc)](https://hub.docker.com/r/peterdavehello/opencc/)
